@@ -9,7 +9,7 @@ public class SpringboottestApplication {
     public static void main(String[] args) {
         SpringApplication app = new SpringApplication(SpringboottestApplication.class);
         app.run(args);
-
+//gfdgd
         StackEx_1 ex = new StackEx_1();
         int[] result =  ex.solution(new int[]{3,9,9,3,5,7,2});
 
